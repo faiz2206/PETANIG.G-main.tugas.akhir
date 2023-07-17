@@ -13,5 +13,7 @@
 ![alt text](https://github.com/faiz2206/petaniGG/blob/main/gradle/wrapper/gambar/Screenshot%20(20).png?raw=true)
 # git hub
 ![alt text](https://github.com/faiz2206/petaniGG/blob/main/gradle/wrapper/gambar/github.png?raw=true)
+#Output program: halaman utama yang tampil adalah login dengan USERNAME dan PASSWORD dengan USERNAME = admin PASSWORD=password
+![alt text](?raw=true)
 
  
