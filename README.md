@@ -29,7 +29,7 @@
 ![alt text](https://github.com/faiz2206/PETANIG.G-main.tugas.akhir/blob/main/tugas2/7.1.jpeg?raw=true)
 # kemudian hapus data faizah tinggal data masruah
 ![alt text](https://github.com/faiz2206/PETANIG.G-main.tugas.akhir/blob/main/tugas2/7.2.jpeg?raw=true)
-# 
+# hapus data
 ![alt text](https://github.com/faiz2206/PETANIG.G-main.tugas.akhir/blob/main/tugas2/8.jpeg?raw=true)
 # 
 ![alt text](https://github.com/faiz2206/PETANIG.G-main.tugas.akhir/blob/main/tugas2/9.jpeg?raw=true)
